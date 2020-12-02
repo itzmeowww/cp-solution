@@ -11,4 +11,4 @@ Solution for various competitive programming website.
 
 #### My Submission
 
-- [TOI Submission](Toi/TOI.md)
+- [TOI Submission](Toi)
