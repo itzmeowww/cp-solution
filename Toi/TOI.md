@@ -7,149 +7,151 @@
 | [TOI 11](#toi-5) | [TOI 10](#toi-6) | [TOI 11](#toi-11) | [TOI 12](#toi-12) |
 | [TOI 13](#toi-5) | [TOI 14](#toi-6) | [TOI 15](#toi-15) | [TOI 16](#toi-16) |
 
-- TOI 1
+### TOI 1
 
-  - [x] [Brick](toi01_brick.cpp)
-  - [x] [Chain](toi01_chain.cpp)
-  - [x] [Nugget](toi01_nugget.cpp)
-  - [x] [Pattern](toi01_pattern.cpp)
-  - [x] [Plate](toi01_plate.cpp)
-  - [x] [Roman](toi01_roman.cpp)
+- [x] [Brick](toi01_brick.cpp)
+- [x] [Chain](toi01_chain.cpp)
+- [x] [Nugget](toi01_nugget.cpp)
+- [x] [Pattern](toi01_pattern.cpp)
+- [x] [Plate](toi01_plate.cpp)
+- [x] [Roman](toi01_roman.cpp)
 
-- TOI 2
+### TOI 2
 
-  - [x] [Bee](toi02_bee.cpp)
-  - [x] [Dice](toi02_dice.cpp)
-  - [x] [Maxseq](toi02_maxseq.cpp)
-  - [x] [Segment](toi02_segment.cpp)
-  - [ ] [Skyline]()
-  - [x] [Word](toi02_word.cpp)
+- [x] [Bee](toi02_bee.cpp)
+- [x] [Dice](toi02_dice.cpp)
+- [x] [Maxseq](toi02_maxseq.cpp)
+- [x] [Segment](toi02_segment.cpp)
+- [ ] [Skyline]()
+- [x] [Word](toi02_word.cpp)
 
-- TOI 3
+### TOI 3
 
-  - [ ] [Block]()
-  - [ ] [Cake]()
-  - [ ] [Express]()
-  - [ ] [Filter]()
-  - [ ] [Tiling]()
-  - [ ] [Treasure]()
+- [ ] [Block]()
+- [ ] [Cake]()
+- [ ] [Express]()
+- [ ] [Filter]()
+- [ ] [Tiling]()
+- [ ] [Treasure]()
 
-- TOI 4
+### TOI 4
 
-  - [ ] [Key]()
-  - [ ] [Logistics]()
-  - [ ] [Mountain]()
-  - [ ] [School]()
-  - [ ] [Sms]()
-  - [ ] [Temp]()
+- [ ] [Key]()
+- [ ] [Logistics]()
+- [ ] [Mountain]()
+- [ ] [School]()
+- [ ] [Sms]()
+- [ ] [Temp]()
 
-- TOI 5
+### TOI 5
 
-  - [ ] [Jump]()
-  - [ ] [Land]()
-  - [ ] [Lkd]()
-  - [ ] [Nsw]()
-  - [ ] [Roi]()
-  - [ ] [Tug]()
+- [ ] [Jump]()
+- [ ] [Land]()
+- [ ] [Lkd]()
+- [ ] [Nsw]()
+- [ ] [Roi]()
+- [ ] [Tug]()
 
-- TOI 6
+### TOI 6
 
-  - [ ] [Domino]()
-  - [ ] [Gem]()
-  - [ ] [Hotel]()
-  - [ ] [Jail]()
-  - [ ] [Schedule]()
-  - [ ] [Tree]()
+- [ ] [Domino]()
+- [ ] [Gem]()
+- [ ] [Hotel]()
+- [ ] [Jail]()
+- [ ] [Schedule]()
+- [ ] [Tree]()
 
-  - TOI 7
-  - [ ] [Bomb]()
-  - [ ] [Car]()
-  - [ ] [Food]()
-  - [ ] [Pair]()
-  - [ ] [Sewer]()
-  - [ ] [Space]()
+### TOI 7
 
-- TOI 8
+- [ ] [Bomb]()
+- [ ] [Car]()
+- [ ] [Food]()
+- [ ] [Pair]()
+- [ ] [Sewer]()
+- [ ] [Space]()
 
-  - [x] [Electricity](toi08_electricity.cpp)
-  - [ ] [Fighter]()
-  - [ ] [Location]()
-  - [x] [Maze](toi08_maze.cpp)
-  - [ ] [Schedule]()
-  - [ ] [Sport]()
+### TOI 8
 
-- TOI 9
+- [x] [Electricity](toi08_electricity.cpp)
+- [ ] [Fighter]()
+- [ ] [Location]()
+- [x] [Maze](toi08_maze.cpp)
+- [ ] [Schedule]()
+- [ ] [Sport]()
 
-  - [ ] [Beehive]()
-  - [ ] [Disaster]()
-  - [ ] [Fence]()
-  - [ ] [Pipe]()
-  - [ ] [Spaceship]()
-  - [ ] [Wizards]()
+### TOI 9
 
-- TOI 10
+- [ ] [Beehive]()
+- [ ] [Disaster]()
+- [ ] [Fence]()
+- [ ] [Pipe]()
+- [ ] [Spaceship]()
+- [ ] [Wizards]()
 
-  - [x] [Cat Codes](toi10_catcodes.cpp)
-  - [x] [Chest](toi10_chest.cpp)
-  - [ ] [Climbing Monkey]()
-  - [x] [Crazy Admin](toi10_crazyadmin.cpp)
-  - [ ] [Fortress]()
-  - [ ] [Go School]()
-  - [ ] [Map]()
-  - [ ] [Pair of Fours]()
-  - [ ] [Prime]()
-  - [ ] [Raider]()
+### TOI 10
 
-- TOI 11
+- [x] [Cat Codes](toi10_catcodes.cpp)
+- [x] [Chest](toi10_chest.cpp)
+- [ ] [Climbing Monkey]()
+- [x] [Crazy Admin](toi10_crazyadmin.cpp)
+- [ ] [Fortress]()
+- [ ] [Go School]()
+- [ ] [Map]()
+- [ ] [Pair of Fours]()
+- [ ] [Prime]()
+- [ ] [Raider]()
 
-  - [x] [Candle](toi11_candle.cpp)
-  - [x] [Cannon](toi11_cannon.cpp)
-  - [x] [Labour](toi11_labor.cpp)
-  - [x] [Observatory](toi11_observatory.cpp)
-  - [x] [Place](toi11_place.cpp)
-  - [x] [Segititga](toi11_segitiga.cpp)
+### TOI 11
 
-- TOI 12
+- [x] [Candle](toi11_candle.cpp)
+- [x] [Cannon](toi11_cannon.cpp)
+- [x] [Labour](toi11_labor.cpp)
+- [x] [Observatory](toi11_observatory.cpp)
+- [x] [Place](toi11_place.cpp)
+- [x] [Segititga](toi11_segitiga.cpp)
 
-  - [x] [Barrier](toi12_barrier.cpp)
-  - [x] [Cable Car](toi12_cablecar.cpp)
-  - [x] [Key](toi12_key.cpp)
-  - [x] [Peak](toi12_peak.cpp)
-  - [x] [Pipe](toi12_pipe.cpp)
-  - [x] [Weakpoint](toi12_weakpoint.cpp)
+### TOI 12
 
-- TOI 13
+- [x] [Barrier](toi12_barrier.cpp)
+- [x] [Cable Car](toi12_cablecar.cpp)
+- [x] [Key](toi12_key.cpp)
+- [x] [Peak](toi12_peak.cpp)
+- [x] [Pipe](toi12_pipe.cpp)
+- [x] [Weakpoint](toi12_weakpoint.cpp)
 
-  - [x] [Art](toi13_art.cpps)
-  - [x] [Budget](toi13_budget.cpp)
-  - [x] [Cat](toi13_cat.cpp)
-  - [x] [Orchid](toi13_orchid.cpp)
-  - [x] [Robot](toi13_robot.cpp)
-  - [x] [Switch](toi13_switch.cpp)
+### TOI 13
 
-- TOI 14
+- [x] [Art](toi13_art.cpps)
+- [x] [Budget](toi13_budget.cpp)
+- [x] [Cat](toi13_cat.cpp)
+- [x] [Orchid](toi13_orchid.cpp)
+- [x] [Robot](toi13_robot.cpp)
+- [x] [Switch](toi13_switch.cpp)
 
-  - [x] [Blockchain](toi14_blockchain.cpp)
-  - [x] [Logistics](toi14_logistics.cpp)
-  - [x] [Nbk48](toi14_nbk48.cpp)
-  - [x] [Plantation](toi14_plantation.cpp)
-  - [ ] [Space 1]()
-  - [ ] [Space 2]()
-  - [x] [Technology](toi14_technology.cpp)
+### TOI 14
 
-- TOI 15
+- [x] [Blockchain](toi14_blockchain.cpp)
+- [x] [Logistics](toi14_logistics.cpp)
+- [x] [Nbk48](toi14_nbk48.cpp)
+- [x] [Plantation](toi14_plantation.cpp)
+- [ ] [Space 1]()
+- [ ] [Space 2]()
+- [x] [Technology](toi14_technology.cpp)
 
-  - [x] [Archery](toi15_archery.cpp)
-  - [x] [Budget](toi15_budget.cpp)
-  - [ ] [Cave]()
-  - [ ] [Fly]()
-  - [x] [Medal](toi15_medal.cpp)
-  - [ ] [Minreq]()
+### TOI 15
 
-- TOI 16
-  - [ ] [Carte]()
-  - [ ] [Dino Cell]()
-  - [ ] [Outbreak]()
-  - [x] [Packbot](toi16_packbot.cpp)
-  - [ ] [Water Truck]()
-  - [ ] [Wheel]()
+- [x] [Archery](toi15_archery.cpp)
+- [x] [Budget](toi15_budget.cpp)
+- [ ] [Cave]()
+- [ ] [Fly]()
+- [x] [Medal](toi15_medal.cpp)
+- [ ] [Minreq]()
+
+### TOI 16
+
+- [ ] [Carte]()
+- [ ] [Dino Cell]()
+- [ ] [Outbreak]()
+- [x] [Packbot](toi16_packbot.cpp)
+- [ ] [Water Truck]()
+- [ ] [Wheel]()
