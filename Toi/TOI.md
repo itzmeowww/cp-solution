@@ -1,7 +1,9 @@
 ## TOI Checklist
 
-| [TOI 1](#toi-1) | [TOI 2](#toi-2) | [TOI 3](#toi-3) | [TOI 4](#toi-4) |
-| [TOI 5](#toi-5) | [TOI 6](#toi-6) | [TOI 7](#toi-7) | [TOI 8](#toi-8) |
+|                  |                  |                   |                   |
+| ---------------- | ---------------- | ----------------- | ----------------- |
+| [TOI 1](#toi-1)  | [TOI 2](#toi-2)  | [TOI 3](#toi-3)   | [TOI 4](#toi-4)   |
+| [TOI 5](#toi-5)  | [TOI 6](#toi-6)  | [TOI 7](#toi-7)   | [TOI 8](#toi-8)   |
 | [TOI 11](#toi-5) | [TOI 10](#toi-6) | [TOI 11](#toi-11) | [TOI 12](#toi-12) |
 | [TOI 13](#toi-5) | [TOI 14](#toi-6) | [TOI 15](#toi-15) | [TOI 16](#toi-16) |
 
