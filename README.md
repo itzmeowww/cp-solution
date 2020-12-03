@@ -2,11 +2,13 @@
 
 Solution for various competitive programming tasks.
 
-- [TOI](<#TOI-(Thailand-Olympiad-in-Informatics)>)
+- [TOI](#TOI)
 - [Codecube](#codecube)
 - [Programming.in.th](#codecube)
 
-### TOI (Thailand Olympiad in Informatics)
+### TOI
+
+`Thailand Olympiad in Informatics`
 
 #### Read Tasks & Submit Solution
 
