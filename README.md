@@ -17,7 +17,7 @@ Solution for various competitive programming tasks.
 
 #### My Submission
 
-- [TOI Submission](Toi)
+- [TOI Submission](Toi/TOI.md)
 
 ### CODECUBE
 
